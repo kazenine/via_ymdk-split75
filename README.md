@@ -24,6 +24,7 @@ After that, go keyboards/wheatfield/split75/config.h change #define DYNAMIC_KEYM
 4. In this via folder, creat file is rules.mk > in this file type :
 
 VIA_ENABLE = yes
+
 LTO_ENABLE = yes
 
 
