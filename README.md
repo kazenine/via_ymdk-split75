@@ -19,5 +19,9 @@ LTO_ENABLE = yes
 After that, we will have this hex file for via "wheatfield_split75_via.hex" in qmk_firmware folder
 
 6. Open VIA, in VIA setting, enable Show Design Tab
-In Design Tab, press LOAD 
+In Design Tab, press LOAD and locate this split75_via.json
+
+7. Go Key Tester > Test Matrix than test all of button
+
+PS: If layer 1, layer 2 is wrong mapping in default, just clear it, dont worry :D 
 
