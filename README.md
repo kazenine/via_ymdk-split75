@@ -1,5 +1,5 @@
 # kzg
-VIA for Split75
+VIA for Split75 / Wheatfield75
 1. Install QMK Toolbox : https://github.com/qmk/qmk_toolbox
 
 Install Text editor : https://www.sublimetext.com/
