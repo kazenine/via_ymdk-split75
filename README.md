@@ -31,6 +31,7 @@ LTO_ENABLE = yes
 5. In QMK Msys, we build : qmk compile -kb wheatfield/split75 -km via
 
 After that, we will have this hex file for via "wheatfield_split75_via.hex" in qmk_firmware folder
+Flash this file to board  thru QMK Toolbox
 
 
 6. Open VIA, in VIA setting, enable Show Design Tab
